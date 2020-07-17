@@ -24,6 +24,6 @@ namespace Sol_Demo.Models
         [Required]
         [EmailAddress]
         [DisplayName("Email Id")]
-        public String EmilId { get; set; }
+        public String EmailId { get; set; }
     }
 }
